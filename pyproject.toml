@@ -9,6 +9,7 @@ python = "^3.8"
 numpy = "^1.23.1"
 matplotlib = "^3.5.2"
 pandas = "^1.4.3"
+open3d = "0.16.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^5.0.4"
